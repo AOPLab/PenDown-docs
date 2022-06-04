@@ -254,7 +254,7 @@ Please check out our [Frontend repo](https://github.com/AOPLab/PenDown-fe-chakra
 2. run
 
    ```shell
-    docker run -d -p 8080:8080 pendown-be
+    docker run -p 8080:8080 pendown-be
    ```
 
 
