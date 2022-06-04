@@ -1,0 +1,6 @@
+[submodule "PenDown-fe-chakra"]
+	path = PenDown-fe-chakra
+	url = https://github.com/AOPLab/PenDown-fe-chakra
+[submodule "PenDown-be"]
+	path = PenDown-be
+	url = https://github.com/AOPLab/PenDown-be
